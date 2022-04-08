@@ -34,6 +34,7 @@ h1{
 }
 
 p{
+    font-size: 20px;
     opacity: 50%;
     color: hsl(220, 15%, 55%);
     padding-left: 60px;
@@ -45,6 +46,6 @@ p{
 
 @media screen and (max-width: 758px){
     .container{
-        margin: 30px;
+        margin: 50px 30px;
     }
 }
