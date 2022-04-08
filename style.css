@@ -1,5 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Outfit&display=swap');
-
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@500&display=swap');
 
 body{
     background-color: hsl(212, 45%, 89%);
@@ -22,7 +21,6 @@ img{
 
 h1, p{
     font-family: 'Outfit', sans-serif;
-    font-weight: bold;
     text-align: center;
 }
 
@@ -30,15 +28,16 @@ h1{
     color: hsl(218, 44%, 22%);
     padding-top: 0%;
     margin-top: 0%;
+    font-weight: bolder;
     
 }
 
 p{
     font-size: 20px;
-    opacity: 50%;
+    opacity: 100%;
     color: hsl(220, 15%, 55%);
-    padding-left: 60px;
-    padding-right: 60px;
+    padding-left: 45px;
+    padding-right: 45px;
     padding-bottom: 50px;
    
 }
@@ -46,6 +45,6 @@ p{
 
 @media screen and (max-width: 758px){
     .container{
-        margin: 50px 30px;
+        margin: 30px;
     }
 }
