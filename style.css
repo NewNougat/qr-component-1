@@ -7,7 +7,7 @@ body{
 
 .container{
     background-color: hsl(0, 0%, 100%);
-    border-radius: 10px;
+    border-radius: 20px;
     width: 400px;
     margin: 100px 500px 0px 550px;
     position: relative;
